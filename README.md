@@ -1,5 +1,5 @@
-#  🧑🏻‍💻 ```      Hello World!      ``` :earth_americas: <img src=" " height="250px" align="right" alt="Gif animado">
-   *Sou estudante em transição da área jurídica para tecnologia, cursando <br>
+#  🧑🏻‍💻 ```      Hello World!      ``` :earth_americas: <img src="https://github.com/user-attachments/assets/c421dbb6-7fb0-4b5e-8bd1-e5b8f66e3608" height="250px" align="right" alt="Gif animado">
+   *Sou estudante em transição da área jurídica para tecnologia, cursando <br>  
   Técnico em Desenvolvimento de Sistemas no (Senai) e Bacharelado em <br>
   Engenharia da Computação na (Univesp).<br>
   Combino o aprendizado analítico do Direito com minha paixão por<br>
