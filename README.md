@@ -1,9 +1,6 @@
-#  🧑🏻‍💻 ```      Hello World!      ``` :earth_americas: <img src="https://github.com/user-attachments/assets/c421dbb6-7fb0-4b5e-8bd1-e5b8f66e3608" height="250px" align="right" alt="Gif animado">
-   *Sou estudante em transição da área jurídica para tecnologia, cursando <br>  
-  Técnico em Desenvolvimento de Sistemas no (Senai) e Bacharelado em <br>
-  Engenharia da Computação na (Univesp).<br>
-  Combino o aprendizado analítico do Direito com minha paixão por<br>
-  soluções digitais, aplicando na prática os conhecimentos adquiridos.*
+#  🧑🏻‍💻 ```      Hello World!      ``` :earth_americas: 
+   *Sou estudante do curso técnico de Desenvolvimento de Sistemas no SENAI e estou me dedicando ao estudo da linguagem Java, com o objetivo de me tornar um profissional na área de desenvolvimento de software.
+Este repositório é um espaço para compartilhar meus projetos, acompanhar minha evolução e me conectar com outros desenvolvedores.*
 <div align="left">
   <a href="https://www.instagram.com/benardo_333/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
