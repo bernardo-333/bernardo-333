@@ -2,19 +2,12 @@
    *Sou estudante do curso técnico de Desenvolvimento de Sistemas no SENAI e estou me dedicando ao estudo da linguagem Java, com o objetivo de me tornar um profissional na área de desenvolvimento de software.
 Este repositório é um espaço para compartilhar meus projetos, acompanhar minha evolução e me conectar com outros desenvolvedores.*
 <div align="left">
-  <a href="https://www.instagram.com/benardo_333/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a> 
   <a href="https://www.linkedin.com/in/bernardo-freitas-3216152a6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:bernardinho.freitas11@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <span style="display: flex; align-items: right; margin-left: 120px;"> <!-- Aumentado para 120px -->
-    <span style="font-size: 8px; margin-right: 5px;"> :mag_right: </span>
-    <img src="https://profile-counter.glitch.me/KenpsSouza/count.svg" style="width: 140px;">
-  </span>
 </div>
 
 ###  🔸```Tecnologias```:notebook_with_decorative_cover:
