@@ -1,4 +1,4 @@
-#  🧑🏻‍💻 ```      Hello World!      ``` :earth_americas: 
+#   ```      Bernardo Freitas      ```  
    *Sou estudante do curso técnico de Desenvolvimento de Sistemas no SENAI e estou me dedicando ao estudo da linguagem Java, com o objetivo de me tornar um profissional na área de desenvolvimento de software.
 Este repositório é um espaço para compartilhar meus projetos, acompanhar minha evolução e me conectar com outros desenvolvedores.*
 <div align="left">
