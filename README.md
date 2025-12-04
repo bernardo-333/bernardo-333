@@ -18,8 +18,3 @@ Este repositório é um espaço para compartilhar meus projetos, acompanhar minh
 
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="Gráfico de contribuições 3D"/>
 
-<div style="display: flex; justify-content: space-between; width: 100%; align-items:center;">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo-333&layout=compact&langs_count=10&theme=tokyonight&custom_title=Tecnologias" style="flex: 1;"/>
-  
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=bernardo-333&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true" style="flex: 1;"/>
-</div>
